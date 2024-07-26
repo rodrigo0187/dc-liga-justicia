@@ -11,5 +11,5 @@ este es un mensaje editado desde GitHub
 ## Hola mundo
 este es un mensaje otra prueba con git pull
 
-## Estos cambios son nuevos
+## Estos cambios son nuevos desde mi repositorio local
 
